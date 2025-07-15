@@ -1,5 +1,5 @@
 # Large-scale mapping of water bodies across sensors using unsupervised deep learning
-![flow chart](imgs\flow_chart.jpg)
+![flow chart](imgs/flow_chart.jpg)
 This is an official implementation of UUCP framework in our RSE 2025 paper "Large-scale mapping of water bodies across sensors using unsupervised deep learning".
 
 We hope that the UUCP framework can serve as a stronger and clearer baseline for future unsupervised water extraction research.
